@@ -2,7 +2,7 @@
 
 FinConnect is a financial education and management application designed to help users learn about personal finance through an intuitive and engaging interface. The UI is built using HTML, TailwindCSS, and AlpineJS.
 
-# Demo - https://www.youtube.com/watch?v=D8NZoJRx2kc
+# Demo - https://youtu.be/NURoxU53gJw
 ## Features
 
 ### 1. Onboarding Experience
